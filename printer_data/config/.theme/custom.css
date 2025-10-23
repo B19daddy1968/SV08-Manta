@@ -11,15 +11,15 @@ Eryone COLOR PALETTE
     Orange:      #ed8323;
     Red:         #d82525;
     Amber:      #bf891d;
-    Purple:      #7B5DB1;
+    sun_blue:   #1563A4;
 */
 
 :root {
-    --Primary:        #7B5DB1;    /*Eryone:Orange*/
+    --Primary:        #1563A4;    /*Eryone:Orange*/
     --Secondary:      #808080;    /*Eryone:CurrentLine*/
-    --Green:          #7B5DB1;    /*Eryone:Green*/
+    --Green:          #28c550;    /*Eryone:Green*/
     --Red:            #d82525;    /*Eryone:Red*/
-    --Warnings:       #7B5DB1;    /*Eryone:Amber*/
+    --Warnings:       #1563A4;    /*Eryone:Amber*/
     --Text:           #f2f2f2;    /*Eryone:Foreground*/
     --DarkerText:     #e0e0e0;    
     --Background:     #282828;    /*Eryone:CurrentLine*/
